@@ -1,0 +1,13 @@
+{
+"companyName": "(>'_')>",
+"productName": "Demo Mode",
+"dataUrl": "WebBuilder.data.unityweb",
+"asmCodeUrl": "WebBuilder.asm.code.unityweb",
+"asmMemoryUrl": "WebBuilder.asm.memory.unityweb",
+"asmFrameworkUrl": "WebBuilder.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
